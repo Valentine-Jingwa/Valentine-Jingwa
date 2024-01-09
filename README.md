@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="100%" height="400px">
 <img src="https://github.com/Valentine-Jingwa/Valentine-Jingwa/blob/main/_c8fea60d-ef3b-442e-8a70-0af0c3a9a749.jpeg">
 </p>
 <h1 align="center">Wassup World I'm Valentine Jingwa</h1>
