@@ -1,14 +1,4 @@
-<style>
-        .background-paragraph {
-            background-image: url('[https://via.placeholder.com/150](https://github.com/Valentine-Jingwa/Valentine-Jingwa/blob/main/_c8fea60d-ef3b-442e-8a70-0af0c3a9a749.jpeg)');
-            height: 200px; /* Set the height of the paragraph */
-            width: 100%; /* Set the width of the paragraph */
-            background-size: cover; /* Cover the entire area of the paragraph */
-            background-repeat: no-repeat; /* Do not repeat the image */
-            background-position: center; /* Center the background image */
-        }
-    </style>
-<p align="center" style="width: 100%; height: 200px; overflow:hidden;">
+<p align="center" style="width: 100%; height: 200px; overflow:hidden; background-image: url('[https://via.placeholder.com/150](https://github.com/Valentine-Jingwa/Valentine-Jingwa/blob/main/_c8fea60d-ef3b-442e-8a70-0af0c3a9a749.jpeg)');">
 //<img src="https://github.com/Valentine-Jingwa/Valentine-Jingwa/blob/main/_c8fea60d-ef3b-442e-8a70-0af0c3a9a749.jpeg" style="width: 100%; object-fit: cover;">
 </p>
 <h1 align="center">Wassup World I'm Valentine Jingwa</h1>
