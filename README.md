@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/3mptySpac3/3mptySpac3/blob/main/SolPunk.png">
+<img src="https://github.com/Valentine-Jingwa/Valentine-Jingwa/blob/main/_c8fea60d-ef3b-442e-8a70-0af0c3a9a749.jpeg">
 </p>
 <h1 align="center">Wassup World I'm Valentine Jingwa</h1>
 <h3 align="center">World Problem solver.</h3>
