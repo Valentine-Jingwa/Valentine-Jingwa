@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/3mptySpac3/3mptySpac3/blob/main/SolPunk.png">
+</p>
 <h1 align="center">Wassup World I'm Valentine Jingwa</h1>
 <h3 align="center">World Problem solver.</h3>
 
